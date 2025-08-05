@@ -3,17 +3,6 @@
 
 This project explores and analyzes Indian agriculture data using Python and SQL.
 
-## Project Structure
-
-AgriDataExplorer/
-├── data/
-│ └── india_agriculture_data.csv
-├── notebooks/
-│ └── new project 2 ( Agri ).ipynb
-├── reports/
-│ └── Agri_Project_Report.pdf
-├── README.md
-
 ## Project Goals
 
 - Clean and explore agriculture dataset
